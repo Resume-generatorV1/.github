@@ -6,7 +6,7 @@ The application allows users to provide a job link or job description, which is 
 
 The frontend was built using **Next.js**, while the backend was implemented using **Python (FastAPI)** with **LangChain** and **DeepSeek LLM** for orchestration and generation. A **PostgreSQL** database is used to persist user data and intermediate processing results.
 
-**NOTE: All repositories except skill_extractor are private.**
+> **Note:** All repositories except `skill_extractor` are private.
 
 ---
 
